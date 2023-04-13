@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "887951559122",
+    "project_id": "studentregistration-fcd59",
+    "storage_bucket": "studentregistration-fcd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887951559122:android:31a6990c58c6301704e00b",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887951559122-eqn2iiafunvt2f9lbi7j34qefqboqvuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__a9RHg2kwHq8tgnFKa9mvQZZA5A7v7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887951559122-eqn2iiafunvt2f9lbi7j34qefqboqvuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887951559122:android:87db837a4a36322004e00b",
+        "android_client_info": {
+          "package_name": "com.example.studentregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887951559122-aeaoannr0q469g5ro3f70mucd9953o9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentregistration",
+            "certificate_hash": "19c827032b06cebd4459e7aa596f045da7f485f6"
+          }
+        },
+        {
+          "client_id": "887951559122-eqn2iiafunvt2f9lbi7j34qefqboqvuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__a9RHg2kwHq8tgnFKa9mvQZZA5A7v7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887951559122-eqn2iiafunvt2f9lbi7j34qefqboqvuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
